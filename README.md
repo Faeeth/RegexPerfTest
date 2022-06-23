@@ -17,10 +17,10 @@ Structure :
 {
 "regex" : {
 "REGEX1" : ".*",
-"REGEX2" : "[a-z]*",
+"REGEX2" : "[a-z]*"
 },
 "input" : {
-"INPUT1" : "hello world",
+"INPUT1" : "hello world"
 },
 
 "nb_runs" : 10000,
